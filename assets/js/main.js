@@ -46,9 +46,10 @@ let c = 20;
 console.log((a + b) * c); // 480
 
 let resultTwo = 480;
-
-console.log(a++); // 15???
-console.log(b--); // 9???
+a++
+b--
+console.log(a); // 15???
+console.log(b); // 9???
 console.log(a - b); // 8
 
 let resultThree = 8
