@@ -48,8 +48,8 @@ console.log((a + b) * c); // 480
 let resultTwo = 480;
 a++
 b--
-console.log(a); // 15???
-console.log(b); // 9???
+console.log(a); // 16
+console.log(b); // 8
 console.log(a - b); // 8
 
 let resultThree = 8
